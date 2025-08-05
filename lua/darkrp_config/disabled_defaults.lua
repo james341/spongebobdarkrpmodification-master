@@ -48,7 +48,8 @@ work for your custom job, remake them to include your job as well.
 ---------------------------------------------------------------------------]]
 DarkRP.disabledDefaults["jobs"] = {
     ["bbchief"]     = false, --Bikini Bottom Police Chief
-    ["spongebob"]  = false, --SpongeBob SquarePants
+    ["dutystaff"] = false, -- Staff on Duty -- Disable if you want to create your own!
+	["spongebob"]  = false, --SpongeBob SquarePants
 	["squidward"] = false, --Squidward Tentacles
 	["mrkrabs"] = false, --Mr. Krabs
 	["plankton"] = false, --Plankton
