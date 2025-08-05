@@ -47,7 +47,7 @@ e.g. you disable the gundealer and you make a new job as TEAM_GUN. If you want t
 work for your custom job, remake them to include your job as well.
 ---------------------------------------------------------------------------]]
 DarkRP.disabledDefaults["jobs"] = {
-    ["chief"]     = false, --Bikini Bottom Police Chief
+    ["bbchief"]     = false, --Bikini Bottom Police Chief
     ["spongebob"]  = false, --SpongeBob SquarePants
 	["squidward"] = false, --Squidward Tentacles
 	["mrkrabs"] = false, --Mr. Krabs
