@@ -51,11 +51,12 @@ DarkRP.disabledDefaults["jobs"] = {
     ["dutystaff"] = false, -- Staff on Duty -- Disable if you want to create your own!
 	["spongebob"]  = false, --SpongeBob SquarePants
 	["squidward"] = false, --Squidward Tentacles
+	["nonvipsquilliam"]   = false, --Squilliam Fancyson
 	["mrkrabs"] = false, --Mr. Krabs
 	["plankton"] = false, --Plankton
 	["sandy"] = false, --Sandy Cheeks
 	["patrick"] = false, --Patrick Star
-	["citizen"]   = false,
+	["citizen"]   = false, = false, --citizen
     ["cook"]      = false, --Hungermod only
     ["bbpolice"]  = false, --Bikini Bottom Police
     ["gangster"]  = false,
