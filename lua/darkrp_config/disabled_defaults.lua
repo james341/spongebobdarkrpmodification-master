@@ -62,12 +62,12 @@ DarkRP.disabledDefaults["jobs"] = {
 	["citizen"]   = false, = false, --citizen
     ["cook"]      = false, --Hungermod only
     ["bbpolice"]  = false, --Bikini Bottom Police
-    ["gangster"]  = false,
-    ["gundealer"] = false,
-    ["hobo"]      = false,
-    ["mayor"]     = false,
-    ["medic"]     = false,
-    ["mobboss"]   = false,
+    ["gangster"]  = false, --Gangster
+    ["gundealer"] = false, --Gun Deale
+    ["hobo"]      = false, --Hobo
+    ["mayor"]     = false, --Mayor
+    ["medic"]     = false, --Medic
+    ["mobboss"]   = false, --Mafia Don
 }
 
 --[[---------------------------------------------------------------------------
