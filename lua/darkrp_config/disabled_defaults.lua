@@ -59,7 +59,7 @@ DarkRP.disabledDefaults["jobs"] = {
 	["plankton"] = false, --Plankton
 	["sandy"] = false, --Sandy Cheeks
 	["patrick"] = false, --Patrick Star
-	["citizen"]   = false, = false, --citizen
+	["citizen"]  = false, --citizen
     ["cook"]      = false, --Hungermod only
     ["bbpolice"]  = false, --Bikini Bottom Police
     ["gangster"]  = false, --Gangster
