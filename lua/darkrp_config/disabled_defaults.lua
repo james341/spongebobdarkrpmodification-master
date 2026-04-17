@@ -1,8 +1,8 @@
 --[[---------------------------------------------------------------------------
-DarkRP disabled defaults
+SpongeBo DarkRP disabled defaults
 ---------------------------------------------------------------------------
 
-DarkRP comes with a bunch of default things:
+SpongeBob- DarkRP comes with a bunch of default things:
     - a load of modules
     - default jobs
     - shipments and guns
