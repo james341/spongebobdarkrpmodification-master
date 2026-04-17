@@ -1,5 +1,5 @@
 --[[---------------------------------------------------------------------------
-SpongeBo DarkRP disabled defaults
+SpongeBoB DarkRP disabled defaults
 ---------------------------------------------------------------------------
 
 SpongeBob- DarkRP comes with a bunch of default things:
